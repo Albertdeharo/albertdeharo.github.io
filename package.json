@@ -1,0 +1,23 @@
+{
+  "name": "githubhome",
+  "version": "1.0.0",
+  "description": "github home page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albertdeharo/albertdeharo.github.io.git"
+  },
+  "author": "Albert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albertdeharo/albertdeharo.github.io/issues"
+  },
+  "homepage": "https://github.com/Albertdeharo/albertdeharo.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
